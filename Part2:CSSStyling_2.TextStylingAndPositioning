@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div>
+      <p style="text-align: center;">
+        <strong>
+          It's My Life
+          <br/>
+          By: Bon Jovi
+        </strong>
+      </p>
+      <br/>
+      <p style="text-align: left;">
+        <strong>
+          [Verse 1]
+          <br/>
+        </strong>
+        This ain't a song for the broken-hearted 
+        <br/>
+        No silent prayer for faith-departed
+      </p>
+      <br/>
+      <p style="text-align: center;">
+        <strong>
+          [Pre-Chorus]
+          <br/>
+        </strong>
+        I ain't gonna be just a face in the crowd 
+        <br/>
+        You're gonna hear my voice when I shout it out loud
+      </p>
+      <br/> 
+      <p style="text-align: right;">
+        <strong>
+          [Chorus]
+          <br/>
+        </strong>
+        t's my life, it's now or never 
+        <br/>
+        I ain't gonna live forever 
+        <br/>
+        I just wanna live while I'm alive 
+        <br/>
+        (It's my life) My heart is like an open highway 
+        <br/>
+        Like Frankle said, I did it my way 
+        <br/>
+        I just wanna live while I'm alive 
+        <br/>
+        It's my life
+      </p>
+      <br/>
+      <p style="text-align: left;">
+        <strong>
+          [Verse 2]
+          <br/>
+        </strong>
+        Yeah, this is for ones who stood their ground 
+        <br/>
+        For Tommy and Gina who never backed down
+        <br/>
+      </p>
+      <br/>
+      <p style="text-align: center;">
+        <strong>
+          [Pre-Chorus]
+          <br/>
+        </strong>
+        Tomorrow's gettin' harder, make no mistake 
+        <br/>
+        Luck ain't even lucky, gotta make your own breaks
+        <br/>
+      </p>
+      <br/> 
+      <p style="text-align: center;">
+        <strong>
+          [Chorus]
+        </strong>
+        It's my life, it's now or never 
+        <br/>
+        I ain't gonna live forever 
+        <br/>
+        I just wanna live while I'm alive 
+        <br/>
+        (It's my life) My heart it like an open highway 
+        <br/>
+        Like Frankie said, I did it my way 
+        <br/>
+        I just wanna live while i'm alive
+        <br/>
+        'Cause it's my life
+      </p>
+    </div>
+  </body>
+</html>
+
+<style>
+  body{
+    background-color: black;
+}
+  div{
+    width: auto;
+    height: auto;
+    color: white;
+}
+</style>
