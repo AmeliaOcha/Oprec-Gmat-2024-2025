@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+	int dec;
+	cin >> dec;
+	int bin[5];
+	if (dec == 0){
+		cout << "No error" << endl;
+	}
+	else if (dec > 0){
+		for(int a = 0; dec > 0; a++){
+			bin[a] = dec%2;
+			dec /= 2;
+		}
+		if(bin[4]) cout << "Container descent rate failure" <<endl;
+		if(bin[3]) cout << "Science Payload descent rate failure" <<endl;
+		if(bin[2]) cout << "Container position failure" <<endl;
+		if(bin[1]) cout << "Science Payload position failure" <<endl;
+		if(bin[0]) cout << "Release failure" <<endl;
+	}
+}
